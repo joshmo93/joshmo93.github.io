@@ -1,0 +1,98 @@
+/* A Free Design by Bryant Smith (bryantsmith.com) */
+
+html, body {
+text-align: center;
+}
+p {text-align: left;}
+
+body {
+	margin: 0;
+	padding: 0;
+	background: url(background.jpg) no-repeat;
+    background-color:#000000;
+    background-position:center top;
+	background-attachment:fixed;
+	text-align: left;
+	font-family: Helvetica, Arial,  sans-serif;
+	font-size: 13px;
+	color: #F1F5F8;
+}
+*
+{
+  margin: 0 auto 0 auto;
+ text-align:left;}
+
+
+html, body {
+text-align: center;
+}
+p {text-align: left;}
+
+
+
+#page
+{
+  margin: 0 auto 0 auto; 
+  margin-top:10px;
+  display: block; 
+  height:auto;
+  position: relative; 
+  overflow: hidden; 
+  width: 742px;
+}
+
+
+
+#header
+{
+background-image:url(images/header.jpg);
+background-repeat:no-repeat;
+ width: 1687px;
+ height: 316px;
+display:block;
+clear:both;
+}
+
+
+.links
+{
+width:722px;
+height:40px;
+font-size:14px;
+font-weight:bold;
+color:#FFFFFF;
+line-height:40px;
+text-align:center;
+padding-right:20px;
+}
+
+.links a, .links a:visited
+{
+font-size:14px;
+font-weight:bold;
+text-decoration:none;
+color:#E9EEF3;
+background-color:#000000;
+padding:3px;
+}
+
+.links a:hover
+{
+color:#FFFFFF;
+background-color:#333333;
+}
+
+#footer
+{
+text-align:center;
+width:inherit;
+color:#E6E6E6;
+font-size:11px;
+}
+
+#footer a, #footer a:visited
+{
+color:#FFFFFF;
+}
+
+
